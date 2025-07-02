@@ -1,0 +1,18 @@
+.red-header {
+    background-color: rgb(240, 149, 149);
+    font-family: 'Verdana', 'DejaVu', 'sans-serif';
+}
+
+#three, #four {
+    font-size: 24px;
+}
+
+#two {
+    color: blue;
+    font-size: 36px;
+}
+
+#four {
+    background-color: rgb(116, 233, 122);
+    font-weight: bold;
+}
